@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/Freddy03h/test-travis.png?branch=master)](https://travis-ci.org/Freddy03h/test-travis)
